@@ -1,0 +1,17 @@
+.fixed-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  padding: 1rem;
+  background: #f9f9f9;   /* optional */
+  border-top: 1px solid #ccc; /* optional */
+}
+.fixed-footer a {
+  color: #0066cc;
+  text-decoration: none;
+}
+.fixed-footer a:hover {
+  text-decoration: underline;
+}
